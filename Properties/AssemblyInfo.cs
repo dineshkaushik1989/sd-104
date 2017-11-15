@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("hello-world2")]
+[assembly: AssemblyTitle("lab2-battng average")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("hello-world2")]
+[assembly: AssemblyProduct("lab2-battng average")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("fce854ba-583f-41e1-8f0c-9b0a60060b79")]
+[assembly: Guid("aee9403c-673a-4843-ac55-5d6db958d3f9")]
 
 // Version information for an assembly consists of the following four values:
 //
