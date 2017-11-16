@@ -1,0 +1,7 @@
+C:\Projects\SD-104\LAB 5 GAME of 23\bin\Debug\LAB 5 GAME of 23.exe.config
+C:\Projects\SD-104\LAB 5 GAME of 23\bin\Debug\LAB 5 GAME of 23.exe
+C:\Projects\SD-104\LAB 5 GAME of 23\bin\Debug\LAB 5 GAME of 23.pdb
+C:\Projects\SD-104\LAB 5 GAME of 23\obj\Debug\LAB 5 GAME of 23.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104\LAB 5 GAME of 23\obj\Debug\LAB 5 GAME of 23.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104\LAB 5 GAME of 23\obj\Debug\LAB 5 GAME of 23.exe
+C:\Projects\SD-104\LAB 5 GAME of 23\obj\Debug\LAB 5 GAME of 23.pdb

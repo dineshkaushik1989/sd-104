@@ -1,0 +1,7 @@
+C:\Projects\SD-104\lab2-battng average\bin\Debug\lab2-battng average.exe.config
+C:\Projects\SD-104\lab2-battng average\bin\Debug\lab2-battng average.exe
+C:\Projects\SD-104\lab2-battng average\bin\Debug\lab2-battng average.pdb
+C:\Projects\SD-104\lab2-battng average\obj\Debug\lab2-battng average.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104\lab2-battng average\obj\Debug\lab2-battng average.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104\lab2-battng average\obj\Debug\lab2-battng average.exe
+C:\Projects\SD-104\lab2-battng average\obj\Debug\lab2-battng average.pdb

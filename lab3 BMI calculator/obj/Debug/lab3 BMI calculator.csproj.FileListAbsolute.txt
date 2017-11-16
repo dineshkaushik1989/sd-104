@@ -1,0 +1,7 @@
+C:\Projects\SD-104\lab3 BMI calculator\obj\Debug\lab3 BMI calculator.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104\lab3 BMI calculator\obj\Debug\lab3 BMI calculator.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104\lab3 BMI calculator\bin\Debug\lab3 BMI calculator.exe.config
+C:\Projects\SD-104\lab3 BMI calculator\bin\Debug\lab3 BMI calculator.exe
+C:\Projects\SD-104\lab3 BMI calculator\bin\Debug\lab3 BMI calculator.pdb
+C:\Projects\SD-104\lab3 BMI calculator\obj\Debug\lab3 BMI calculator.exe
+C:\Projects\SD-104\lab3 BMI calculator\obj\Debug\lab3 BMI calculator.pdb
