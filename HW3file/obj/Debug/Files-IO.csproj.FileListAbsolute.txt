@@ -1,0 +1,7 @@
+C:\Projects\SD-104\HW3file\bin\Debug\Files-IO.exe.config
+C:\Projects\SD-104\HW3file\bin\Debug\Files-IO.exe
+C:\Projects\SD-104\HW3file\bin\Debug\Files-IO.pdb
+C:\Projects\SD-104\HW3file\obj\Debug\Files-IO.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104\HW3file\obj\Debug\Files-IO.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104\HW3file\obj\Debug\Files-IO.exe
+C:\Projects\SD-104\HW3file\obj\Debug\Files-IO.pdb
