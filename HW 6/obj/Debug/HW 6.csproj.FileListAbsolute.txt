@@ -1,0 +1,15 @@
+C:\Projects\SD-104\HW 6\bin\Debug\HW 6.exe.config
+C:\Projects\SD-104\HW 6\bin\Debug\HW 6.exe
+C:\Projects\SD-104\HW 6\bin\Debug\HW 6.pdb
+C:\Projects\SD-104\HW 6\bin\Debug\EntityFramework.dll
+C:\Projects\SD-104\HW 6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\SD-104\HW 6\bin\Debug\EntityFramework.xml
+C:\Projects\SD-104\HW 6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\SD-104\HW 6\obj\Debug\HW 6.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104\HW 6\obj\Debug\HW_6.Form1.resources
+C:\Projects\SD-104\HW 6\obj\Debug\HW_6.Properties.Resources.resources
+C:\Projects\SD-104\HW 6\obj\Debug\HW 6.csproj.GenerateResource.Cache
+C:\Projects\SD-104\HW 6\obj\Debug\HW 6.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104\HW 6\obj\Debug\HW 6.exe
+C:\Projects\SD-104\HW 6\obj\Debug\HW 6.pdb
+C:\Projects\SD-104\HW 6\obj\Debug\HW_6.Displaynames.resources
